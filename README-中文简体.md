@@ -49,3 +49,10 @@
 ## 🏗️ 系统架构
 
 <img width="1280" height="720" alt="FTP架构图-简体" src="https://github.com/user-attachments/assets/5fde5c9f-61c9-42bc-9b39-d327844a5720" />
+
+## 📞 联系我们
+- **官方网站:** https://www.ylink.com.cn/
+
+- **问题反馈:** Github Issues
+
+- **电子邮箱:** ylink_pd@yykj.com 
